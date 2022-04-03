@@ -1,2 +1,2 @@
 
-not for collaborating.
+how to get good ideas
