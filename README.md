@@ -1,2 +1,2 @@
-https:://www.github/DevCurly
-how to get good ideas
+Windows & Linux & Android user
+PLs: Python,Basic JavaScript
