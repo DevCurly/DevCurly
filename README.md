@@ -6,6 +6,8 @@ Im a cheese programmer what likes computer alot
 
 # PLs
     Python
+    C++ (not gonna make any public until i have something good or other)
+    (stopped learnin)
     JavaScript (not gonna make any public in github until i think what my skill is good)
     C (same as javascript)
     
