@@ -1,19 +1,21 @@
+Hey, what's up? I'm the king of shifting and coding - DevCurly! 👑
 
-# About Me
-Im a cheese programmer what likes computer alot
+I make sick software and beats while taking a... It's my secret superpower.
 
-    Not available for payed work
+## 🚀 Skills
 
-# PLs
-    Python
-    C++ (not gonna make any public until i have something good or other)
-    
-# OS
-    Windows 10 
-    Arch Linux (dwm, dotfiles privated)
+Here's my bad arsenals of tech and tools:
 
-![2022-10-02_12-49](https://user-images.githubusercontent.com/92770885/193471766-27502814-9a41-4981-9610-0c99bb99802a.png)
-![2022-09-30_18-07](https://user-images.githubusercontent.com/92770885/193471765-5aa24d6f-cf4f-4a4e-aa3a-eae648bb8435.png)
-    Android
+- Programming languages: Python (coz it's the shift), luau (for some Roblox swag), C++ (when I wanna feel smart), and bash? (cos why the duck not).
+- Development tools: ArchLinux (cos I'm a big brain hacker), VSCodium (when I wanna appear normal), and kitty (the coolest terminal emulator out there).
 
+## 📫 Contact
 
+You can catch me getting busy on these platforms:
+
+- Twitter: [@n0tcurlyy](https://twitter.com/n0tcurlyy) (where I tweet my shift humor and tunes stuff)
+- SoundCloud: [n0tcurly](https://soundcloud.com/n0tcurly) (where my shift tunes reign supreme)
+
+## 🎉 Contributions
+
+Nah, I'm too busy shifting and making magic.
