@@ -7,7 +7,7 @@ I make sick software and beats while taking a... It's my secret superpower.
 Here's my bad arsenals of tech and tools:
 
 - Programming languages: Python (coz it's the shift), luau (for some Roblox swag), C++ (when I wanna feel smart), and bash? (cos why the duck not).
-- Development tools: ArchLinux (cos I'm a big brain hacker), VSCodium (when I wanna appear normal), and kitty (the coolest terminal emulator out there).
+- Development tools: ArchLinux (cos I'm a big brain hacker), VSCodium (when I wanna appear normal), and kitty (the chadest terminal emulator out there).
 
 ## 📫 Contact
 
